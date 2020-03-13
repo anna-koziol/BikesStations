@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAjuEtvVlA_CTrcikfRklNYt-RSsqghssU",
+    authDomain: "koziol4ia2.firebaseapp.com",
+    databaseURL: "https://koziol4ia2.firebaseio.com",
+    projectId: "koziol4ia2",
+    storageBucket: "koziol4ia2.appspot.com",
+    messagingSenderId: "74905134944"
+  };
+  firebase.initializeApp(config);
+</script>
