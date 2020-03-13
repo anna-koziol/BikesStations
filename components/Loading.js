@@ -7,12 +7,12 @@ import firebase from "firebase";
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyAjuEtvVlA_CTrcikfRklNYt-RSsqghssU",
-    authDomain: "koziol4ia2.firebaseapp.com",
-    databaseURL: "https://koziol4ia2.firebaseio.com",
-    projectId: "koziol4ia2",
-    storageBucket: "koziol4ia2.appspot.com",
-    messagingSenderId: "74905134944"
+    apiKey: "x",
+    authDomain: "x",
+    databaseURL: "x",
+    projectId: "x",
+    storageBucket: "x",
+    messagingSenderId: "x"
 };
 firebase.initializeApp(config);
 
